@@ -60,17 +60,20 @@ Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/a
 
 **Je focus:** surface plane
 
-**Je opdracht:** https://www.pont13.nl/over-pont-13
+**Je opdracht:** https://alphalete.eu/
 
 **Screenshot(s):** 
-
+![alt](images/ahome.png)
+![alt](images/awebshop.png)
+![alt](images/adetail.png)
 
 
 ![screenshot(s) die een goed beeld geven van de website die je gaat maken](images/dummy-image.svg)
 
 **Breakdown-schets(en):**
-
-
+![alt](images/)
+![alt](images/)
+![alt](images/)
 
 
 ![-voorlopige breakdownschets(en) van een of beide pagina's van de site die je gaat maken-](images/dummy-image.svg)
